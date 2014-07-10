@@ -6,16 +6,6 @@
 
 using namespace lcio ;
 
-
-/** ZFinder:<br>
- * Returns the best Z->ee/Z->mm candidate in the event. Relatively
- * loose cuts are applied. For a physics analysis tighter cuts (applied
- * user analysis code) might be required. Bremstrahlung/FSR recovery is
- * on by default.
- * 
- * @author M.Thomson Cambridge
- */
-
 class ZFinder : public marlin::Processor {
   
  public:

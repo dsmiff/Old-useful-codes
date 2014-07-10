@@ -1,3 +1,10 @@
+/*
+
+Non existent header files
+
+*/
+
+
 #include "EVENT/LCIO.h"
 #include "EVENT/LCRunHeader.h"
 #include "EVENT/LCCollection.h"
